@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/me_mo/Downloads/rest1/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/me_mo/Downloads/rest1/commons-lang3-3.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/me_mo/Downloads/rest1/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/me_mo/Downloads/rest1/groovy-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/me_mo/Downloads/rest1/groovy-json-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/me_mo/Downloads/rest1/groovy-xml-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/me_mo/Downloads/rest1/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/me_mo/Downloads/rest1/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/me_mo/Downloads/rest1/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/me_mo/Downloads/rest1/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/me_mo/Downloads/rest1/jakarta.activation-api-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/me_mo/Downloads/rest1/jakarta.xml.bind-api-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/me_mo/Downloads/rest1/jaxb-impl-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/me_mo/Downloads/rest1/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/me_mo/Downloads/rest-assured-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/me_mo/Downloads/json-schema-validator-4.3.3-dist/json-schema-validator-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/me_mo/Downloads/json-schema-validator-4.3.3-dist/docs/json-schema-validator-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/me_mo/Downloads/json-schema-validator-4.3.3-dist/docs/json-schema-validator-4.3.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/me_mo/Downloads/rest2/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/me_mo/Downloads/rest2/commons-lang3-3.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/me_mo/Downloads/rest2/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/me_mo/Downloads/rest2/groovy-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/me_mo/Downloads/rest2/groovy-json-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/me_mo/Downloads/rest2/groovy-xml-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/me_mo/Downloads/rest2/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/me_mo/Downloads/rest2/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/me_mo/Downloads/rest2/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/me_mo/Downloads/rest2/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/me_mo/Downloads/rest2/jakarta.activation-api-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/me_mo/Downloads/rest2/jakarta.xml.bind-api-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/me_mo/Downloads/rest2/jaxb-impl-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/me_mo/Downloads/rest2/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/me_mo/Downloads/xml1/xml-path-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/me_mo/Downloads/xml1/docs/rest-assured-common-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/me_mo/Downloads/xml1/docs/rest-assured-common-4.3.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/me_mo/Downloads/xml1/docs/xml-path-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/me_mo/Downloads/xml1/docs/xml-path-4.3.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/me_mo/Downloads/json-schema-validator-4.3.3-dist.zip"/>
+	<classpathentry kind="lib" path="C:/Users/me_mo/Downloads/json1/json-path-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/me_mo/Downloads/json1/docs/json-path-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/me_mo/Downloads/json1/docs/json-path-4.3.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/me_mo/Downloads/json1/docs/rest-assured-common-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/me_mo/Downloads/json1/docs/rest-assured-common-4.3.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/me_mo/Downloads/spring-web-test-client-4.3.3-dist.zip"/>
+	<classpathentry kind="lib" path="C:/Users/me_mo/Downloads/json2/json-schema-validator-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/me_mo/Downloads/json2/docs/json-schema-validator-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/me_mo/Downloads/json2/docs/json-schema-validator-4.3.3-sources.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
