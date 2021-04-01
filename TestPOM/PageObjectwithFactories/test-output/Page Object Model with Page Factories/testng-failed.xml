@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Page Object Model with Page Factories]">
+  <test name="Flipkart Test(failed)">
+    <classes>
+      <class name="com.w2a.testcases.FlipkartTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="flipkart"/>
+        </methods>
+      </class> <!-- com.w2a.testcases.FlipkartTest -->
+    </classes>
+  </test> <!-- Flipkart Test(failed) -->
+</suite> <!-- Failed suite [Page Object Model with Page Factories] -->
